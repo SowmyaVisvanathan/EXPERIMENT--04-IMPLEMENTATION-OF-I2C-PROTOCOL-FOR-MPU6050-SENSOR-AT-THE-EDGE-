@@ -1,14 +1,13 @@
 # EXPERIMENT 04-IMPLEMENTATION OF I2C PROTOCOL FOR MPU6050 SENSOR AT THE EDGE
 ---
-
 ### **NAME:** Sowmya V
 ### **DEPARTMENT:** CSE(IoT)
 ### **ROLL NO:** 212222110045
 ### **DATE OF EXPERIMENT:** 24-03-25
-
 ---
-## **AIM:**  
-To interface an **MPU6050 6-Axis Accelerometer & Gyroscope Sensor** with the **Raspberry Pi Pico** and display the sensor readings using MicroPython.
+## AIM:  
+To interface an MPU6050 6-Axis Accelerometer & Gyroscope Sensor with the Raspberry Pi Pico and display the sensor readings using MicroPython.
+
 ---
 
 ## **APPARATUS REQUIRED:**  
@@ -115,5 +114,3 @@ while True:
 
 ## RESULT:
 The MPU6050 sensor was successfully interfaced with the Raspberry Pi Pico, and real-time acceleration and gyroscope data were read and displayed. The sensor values can be used for motion tracking, tilt detection, and gesture control applications.
-
-
